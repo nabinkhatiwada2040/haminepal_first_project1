@@ -61,6 +61,12 @@ const Contact = () => {
                           <div className="col-6">
                               <div className="follow">
                                   <h4>Follow Us</h4>
+                                  <ul>
+                        <li><Facebook class="fab fa-facebook-f"/></li>
+                        <li><Twitter class="fab fa-twitter"/></li>
+                        <li><LinkedIn class="fab fa-linkedin"/></li>
+                        <li><Instrageam class="fab fa-instagram-square"/></li>
+                    </ul>
                                   
                               </div>
                           </div>

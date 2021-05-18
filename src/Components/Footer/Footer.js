@@ -27,10 +27,10 @@ const Footer = () => {
                    <div className="contact-with">
                    <h2>Connect with us</h2>
                     <ul>
-                        <li>Facebook</li>
-                        <li>Twitter</li>
-                        <li>LinkedIn</li>
-                        <li>Instrageam</li>
+                        <li><Facebook class="fab fa-facebook-f"/>Facebook</li>
+                        <li><Twitter class="fab fa-twitter"/>Twitter</li>
+                        <li><LinkedIn class="fab fa-linkedin"/>LinkedIn</li>
+                        <li><Instrageam class="fab fa-instagram-square"/>Instrageam</li>
                     </ul>
                    </div>
                 </div>
