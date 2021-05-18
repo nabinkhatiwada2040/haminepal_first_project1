@@ -62,10 +62,10 @@ const Contact = () => {
                               <div className="follow">
                                   <h4>Follow Us</h4>
                                   <ul>
-                        <li><Facebook class="fab fa-facebook-f"/></li>
-                        <li><Twitter class="fab fa-twitter"/></li>
-                        <li><LinkedIn class="fab fa-linkedin"/></li>
-                        <li><Instrageam class="fab fa-instagram-square"/></li>
+                        <li><i className="fab fa-facebook-f"/></li>
+                        <li><i className="fab fa-twitter"/></li>
+                        <li><i className="fab fa-linkedin"/></li>
+                        <li><i className="fab fa-instagram-square"/></li>
                     </ul>
                                   
                               </div>
