@@ -1,0 +1,55 @@
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.dropdown-icon select{
+    margin: 20px;
+    border: none;
+    border-left: 2px;
+}
+.join-info{
+    margin: 20px 20px 20px 300px;
+    
+}
+.join-info ul{
+    text-decoration: none;
+    text-align: end;
+}
+.join-info ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 0 15px;
+}
+
+ul li button{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.nav-items{
+    background-color: #9F1718;
+    margin-top: -10px;
+    height: 30px;
+}
+.nav-items ul{
+    text-align: center;
+    margin: auto;
+}
+.nav-items ul li{
+    list-style-type:none ;
+    display: inline;
+    color: white;
+    padding: 0 10px;
+   
+    
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+link:hover{
+    color: white ;
+    text-decoration: none;
+}

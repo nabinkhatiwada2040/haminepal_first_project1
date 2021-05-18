@@ -1,0 +1,61 @@
+.footer{
+    background-color: #b91a1a;
+    padding: 50px 20px 80px;
+}
+.footer img{
+    height: 200px;
+}
+.quick-links{
+    text-align: start;
+}
+.quick-links h2{
+    color: rgb(212, 207, 207);;
+    font-family: Roboto;
+    text-transform: uppercase;
+}
+.quick-links ul li{
+    list-style-type: none;
+    font-family: Roboto;
+    color: rgb(212, 207, 207);;
+    font-size: 24px;
+}
+.contact-with{
+    text-align: start;
+}
+.contact-with h2{
+    color: rgb(212, 207, 207);;
+    font-family: Roboto;
+    text-transform: uppercase;
+}
+.contact-with ul li{
+    list-style-type: none;
+    font-family: Roboto;
+    color: rgb(212, 207, 207);
+    font-size: 24px;
+}
+.contact{
+    text-align: start;
+}
+.contact h2{
+    color: rgb(212, 207, 207);
+    text-transform: uppercase;
+    font-family: Roboto;
+}
+.contact ul li{
+    list-style-type: none;
+    font-family: Roboto;
+    color: rgb(212, 207, 207);
+    font-size: 24px;
+}
+
+.copyright{
+    background-color: #9f1718;
+    border-top: 1px solid white;
+}
+.copyright p{
+    color: white;
+    font-family: Roboto;
+    font-size: 22px;
+    text-align: start;
+    padding-left: 30px;
+}

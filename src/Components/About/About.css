@@ -1,0 +1,29 @@
+.container-fluid1{
+    margin: 0 60px !important;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.about-info{
+    margin-top: 60px;
+    background-color: #9f1718;
+    text-align: center;
+    padding: 40px;
+    align-items: center;
+}
+.about-info h1{
+    color: white;
+    font-size: 72px;
+    font-family: Roboto;
+}
+.about-info span{
+   
+    height: 10px;
+    width: 500px;
+    color: white;
+   
+}
+.about-info p{
+    font-size: 24px;
+    font-family: Roboto;
+    color: white;
+}
