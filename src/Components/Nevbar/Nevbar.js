@@ -44,7 +44,7 @@ const Nevbar = () => {
                                 Search
                             </li>
                             <li>
-                                Sign in
+                                <Link className="">Sign in</Link>
                             </li>
                             <li>
                                 <button>
@@ -68,10 +68,10 @@ const Nevbar = () => {
                     <Link className="link">Be Volunteer</Link>
                     </li>
                     <li>
-                    <Link className="link">Cause</Link>
+                    <Link className="link" to="/cause">Cause</Link>
                     </li>
                     <li>
-                        <Link className="link">Events</Link>
+                        <Link className="link" to="/event">Events</Link>
                     </li>
                     <li>
                         <Link className="link">Transparency</Link>

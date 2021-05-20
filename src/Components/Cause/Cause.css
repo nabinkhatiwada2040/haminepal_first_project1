@@ -1,0 +1,96 @@
+.card{
+    width: 21rem;
+    margin-bottom: 40px;
+}
+.row .col-4{
+    text-align: center;
+    
+}
+.cause-info{
+    margin-top: 80px;
+    background-color: #EEEEEE;
+    padding-bottom: 60px;
+}
+.cause-info h4{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 50px;
+text-align: start;
+color: #9F1718;
+}
+.card p{
+    text-align: start;
+    margin: 0;
+    padding: 0;
+}
+.card-text{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 20px;
+margin: 0;
+padding: 0;
+/* identical to box height */
+
+
+color: #9F1718;
+}
+.cname{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 33px;
+/* identical to box height */
+color: #000000;
+}
+.ename{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+
+color: #000000;
+}
+
+.small-para{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.under-info{
+    height: 7px;
+    background: #9F1718;
+border-radius: 10px;
+}
+.donated-amount{
+    font-family: Noto Sans;
+font-style: normal;
+text-align: center;
+font-size: 18px;
+line-height: 33px;
+/* identical to box height */
+color: #000000;
+}
+.cause-underline{
+    margin-top: 30px;
+}
+.next-cause-info h4{
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 50px;
+    text-align: start;
+    color: #9F1718;
+}
